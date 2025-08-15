@@ -68,10 +68,10 @@ Three machine learning models were implemented and compared:
 After comprehensive evaluation, the **XGBoost Classifier** demonstrated the strongest performance:
 
 | Model | Accuracy | Precision (Class 1) | Recall (Class 1) | F1-Score (Class 1) |
-| :------------------ | :------- | :------------------ | :--------------- | :----------------- |
-| Logistic Regression | 0.78 | 0.78 | 0.77 | 0.78 |
-| Random Forest | 0.94 | 0.97 | 0.91 | 0.93 |
-| **XGBoost** | **0.95** | **0.98** | **0.92** | **0.95** |
+| :------------------ | :------- | :------------------ |:-----------------|:-------------------|
+| Logistic Regression | 0.78 | 0.78 | 0.77             | 0.78               |
+| Random Forest | 0.94 | 0.97 | 0.91             | 0.94               |
+| **XGBoost** | **0.95** | **0.98** | **0.91**         | **0.95**           |
 
 XGBoost achieved the highest accuracy and F1-score for predicting loan defaults, highlighting its effectiveness for this classification task.
 

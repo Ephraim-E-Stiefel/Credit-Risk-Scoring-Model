@@ -60,7 +60,7 @@ Three distinct machine learning models were chosen for credit risk prediction, b
 * **Algorithm**: Linear model that estimates the probability of a binary outcome.
 * **Performance (Test Set)**:
     * Precision: 0.78
-    * Recall: 0.77
+    * Recall: 0.78
     * F1-Score: 0.78
     * Accuracy: 0.78
 * **Key Insight**: Provides a strong baseline, indicating significant linear relationships between features and loan status.
@@ -73,7 +73,7 @@ Three distinct machine learning models were chosen for credit risk prediction, b
 * **Performance (Test Set)**:
     * Precision: 0.97
     * Recall: 0.91
-    * F1-Score: 0.93
+    * F1-Score: 0.94
     * Accuracy: 0.94
 * **Key Insight**: Achieved high performance, demonstrating the effectiveness of ensemble methods for this dataset.
 
@@ -84,7 +84,7 @@ Three distinct machine learning models were chosen for credit risk prediction, b
 * **Algorithm**: Optimized gradient boosting framework for tree-based models.
 * **Performance (Test Set)**:
     * Precision: 0.98
-    * Recall: 0.92
+    * Recall: 0.91
     * F1-Score: 0.95
     * Accuracy: 0.95
 * **Key Insight**: Outperformed other models, showcasing the power of boosted trees for complex datasets.
@@ -94,10 +94,10 @@ Three distinct machine learning models were chosen for credit risk prediction, b
 ## 10. Model Comparison
 
 | Model               | Accuracy | Precision (Class 1) | Recall (Class 1) | F1-Score (Class 1) |
-| :------------------ | :------- | :------------------ | :--------------- | :----------------- |
-| Logistic Regression | 0.78     | 0.78                | 0.77             | 0.78               |
-| Random Forest       | 0.94     | 0.97                | 0.91             | 0.93               |
-| **XGBoost** | **0.95** | **0.98** | **0.92** | **0.95** |
+| :------------------ |:---------|:--------------------|:-----------------|:-------------------|
+| Logistic Regression | 0.78     | 0.78                | 0.78             | 0.78               |
+| Random Forest       | 0.94     | 0.97                | 0.91             | 0.94               |
+| **XGBoost** | **0.95** | **0.98**            | **0.91**         | **0.95**           |
 
 The table summarizes the performance of each model on the test set. In the context of ***credit risk prediction***, the performance on the minority class (Class 1: default) is critical.
 
