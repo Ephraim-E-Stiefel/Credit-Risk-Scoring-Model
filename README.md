@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository presents a machine learning project focused on developing and evaluating models for ***predicting credit default risk***. The goal is to build robust predictive models that can accurately assess the likelihood of a loan applicant defaulting, thereby aiding financial institutions in better risk management and informed lending decisions.
+This repository hosts a machine learning project focused on developing and evaluating models for ***predicting credit default risk***. The goal is to build robust predictive models that can accurately assess the likelihood of a loan applicant defaulting, thereby aiding financial institutions in better risk management and informed lending decisions.
 
 ---
 
