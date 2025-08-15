@@ -90,8 +90,9 @@ XGBoost achieved the highest accuracy and F1-score for predicting loan defaults,
 |   |-- 02_How_to_use_Model.ipynb  
 |   |-- 03_PreProcessing_PD_Model.ipynb  
 |-- presentations/   
+|   |-- credit_risk_pbi_dashboard.pbix  
+|   |-- credit_risk_pbi_dashboard.pdf  
 |   |-- credit_risk_presentation.md  
-|   |-- POWER BI XXXX.md  
 |-- models/  
 |   |-- logisticPDmodel.pkl  
 |   |-- RandomForestPDmodel.pkl  
