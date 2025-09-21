@@ -108,10 +108,9 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Credit-Risk-Scoring-Model.git](https://github.com/your-username/Credit-Risk-Scoring-Model.git)
+    git clone [https://github.com/Ephraim-E-Stiefel/Credit-Risk-Scoring-Model.git](https://github.com/your-username/Credit-Risk-Scoring-Model.git)
     cd Credit-Risk-Scoring-Model
     ```
-    (Replace `your-username` with your GitHub username)
 
 2.  **Create a virtual environment (recommended):**
     ```bash
